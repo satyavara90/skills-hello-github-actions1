@@ -5,7 +5,7 @@ on:
 permissions:
   pull-requests: write
 
-# This step triggers after the learner creates a new repository from the template.
+# This step triggers after the learner creates a new repository from the template. 
 # This workflow updates from step 0 to step 1.
 
 # This will run every time we create push a commit to `main`.
